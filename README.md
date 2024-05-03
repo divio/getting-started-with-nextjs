@@ -1,6 +1,6 @@
 # Getting Started with Next.js
 
-[![Deploy to Divio](https://img.shields.io/badge/DEPLOY-TO%20DIVIO-DFFF67?logo=docker&logoColor=white&labelColor=333333)](https://control.divio.com/app/new/?template_url=https://github.com/divio/getting-started-with-nextjs/archive/refs/heads/main.zip)
+[![Deploy to Divio](https://docs.divio.com/deploy-to-divio.svg)](https://control.divio.com/app/new/?template_url=https://github.com/divio/getting-started-with-nextjs/archive/refs/heads/main.zip)
 
 Welcome to our QuickStart template – your portal to swift application development and seamless local testing. Whether you're delving into Next.js for the first time or optimizing your workflow, our template, based on Next.js' [Getting Started](https://nextjs.org/docs/getting-started/installation), has got you covered.
 
